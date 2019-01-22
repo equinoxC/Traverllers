@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-logging-1.2 2.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-collections4-4.2 2.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chenjialei/Downloads/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
